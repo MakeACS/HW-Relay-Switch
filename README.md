@@ -1,4 +1,4 @@
-# Template
+# Relay Switch
 
 The Relay Switch provides 2 sets of double-throw dry contacts, allowing open-ended integration with a wide variety of control loops. Common examples include interlocks, e-stops, door magnets, and more.
 
